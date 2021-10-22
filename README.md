@@ -6,5 +6,5 @@ Node.js project using express, ejs where we fetch the weather data from weather 
 <div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="$ npm install
 $ npm start
 "><pre><code>$ npm install
-$ nodemon app.js
+$ node app.js
 </code></pre></div>
